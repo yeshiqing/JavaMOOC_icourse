@@ -1,4 +1,4 @@
-package _2conditionalStatements;
+package week2_conditionalStatements;
 
 import java.util.Scanner;
 

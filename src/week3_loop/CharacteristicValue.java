@@ -1,4 +1,4 @@
-package _3loop;
+package week3_loop;
 
 import java.util.Scanner;
 

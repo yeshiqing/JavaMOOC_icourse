@@ -1,4 +1,4 @@
-package _1calc;
+package week1_calc;
 
 
 import java.util.Scanner;
