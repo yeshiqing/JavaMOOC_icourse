@@ -47,9 +47,9 @@ class Fraction {
 	}
 	
 	double toDouble() //将分数转换为double
-    {
+	{
         return a * 1.0 / b;
-    }
+	}
 
 	Fraction(int a, int b) {
 		int d = gcd(a, b);
